@@ -1,0 +1,28 @@
+.header__container{
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 56px;
+    font-weight: 600;
+    color: #323232;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 500;
+    color: darkgray;
+}
+
+h3{
+    font-size: 32px;
+    font-weight: 400;
+    color: rgb(33, 77, 133);
+}
+
+h4{
+    font-size: 24px;
+    font-weight: 400;
+    color: hsl(0, 51%, 51%);
+}
